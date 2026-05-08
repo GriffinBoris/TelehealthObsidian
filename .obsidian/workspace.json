@@ -11,10 +11,14 @@
             "id": "0fb6ee37f17dcd51",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Stanton - Griffin Sync  - May 8th 2026.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Stanton - Griffin Sync  - May 8th 2026"
             }
           }
         ]
@@ -180,12 +184,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "94e7cb98f666f496",
+  "active": "0fb6ee37f17dcd51",
   "lastOpenFiles": [
+    "Notes/Notes.md",
+    "Notes/Stanton - Griffin Sync  - May 8th 2026.md",
     "opencode.json",
     "Untitled.canvas",
     "Plans/Plans.md",
-    "Notes/Notes.md",
     "Notes",
     "Templates/Project Template.md",
     "Templates/Plan Template.md",
