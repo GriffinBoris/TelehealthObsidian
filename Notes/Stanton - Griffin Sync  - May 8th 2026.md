@@ -9,24 +9,24 @@ Reviewed Stanton's current telehealth workflow, patient portal, and admin toolin
 
 ## Key Points
 
-1. Current portal / operational workflow
+1. **Current portal / operational workflow**
 	 * Stanton showed the existing patient portal and lead management flow.
 	 * The current system tracks lead source, contact info, intake responses, and whether a lead converted into a patient.
 	 * "Recent clinical encounters" are effectively used as a sales/transaction view, though clinically they represent doctor-patient interactions.
 
-2. Current business metrics
+2. **Current business metrics**
 	 * Stanton reported roughly `442` total patients and `339` active subscriptions.
 	 * "Active subscription" means a live recurring billing relationship, not just a historically active patient.
 	 * Subscription cadences include monthly, 3-month, 6-month, and 12-month plans.
 	 * Stanton estimated current telehealth profit at roughly `$20k-$25k/month`, with marketing revenue above that.
 
-3. Refill automation
+3. **Refill automation**
 	 * Refill requests are automated through the patient portal.
 	 * Patients receive a refill prompt based on plan timing, such as around day 21 for monthly plans.
 	 * Refill questions come from the doctor network and include current weight, dose, weight lost, and side effects.
 	 * For longer plans, refill forms are still collected on a recurring cadence.
 
-4. Intended SaaS platform role
+4. **Intended SaaS platform role**
 	 * The planned product is a software layer for telehealth brands/clinics rather than a clinic operator itself.
 	 * Core flow discussed:
 		 `Patient -> Intake -> Brand/Clinic Backend -> Doctor Network -> Pharmacy -> Patient`
@@ -34,12 +34,12 @@ Reviewed Stanton's current telehealth workflow, patient portal, and admin toolin
 	 * Existing patient bases could be migrated either by having patients re-enter through intake or by CSV import.
 	 * Intake forms should be brandable per clinic/merchant.
 
-5. Multi-brand strategy
+5. **Multi-brand strategy**
 	 * Stanton wants the option to support multiple brands under one platform.
 	 * Different brands may exist for different marketing approaches, niches, product focuses, or demographic targeting.
 	 * The platform could be used both for third-party brands and for brands Stanton operates directly.
 
-6. Admin / billing model inspiration
+6. **Admin / billing model inspiration**
 	 * Uniloop was referenced as a useful multi-tenant SaaS example.
 	 * Desired admin concepts include:
 		 * Super admin dashboard across all brands/merchants
@@ -49,15 +49,15 @@ Reviewed Stanton's current telehealth workflow, patient portal, and admin toolin
 	 * Example pricing discussed was a monthly SaaS fee plus a per-order fee such as `$5/order`.
 	 * Billing should sync cleanly with Stripe.
 
-7. Product scope clarification
+7. **Product scope clarification**
 	 * Griffin noted the system has fewer requirements than originally outlined in the earlier PRD.
 	 * The clarified MVP is more operational and workflow-focused than the earlier broader vision.
 
-8. Design / documentation
+8. **Design / documentation**
 	 * Stanton may have his designer resume Figma work, especially around communication and notification screens.
 	 * Griffin mentioned using Obsidian canvas-style tools for mapping flows and requirements.
 
-9. Technical stack discussion
+9. **Technical stack discussion**
 	 * Griffin shared the current implementation stack as Python/Django on the backend, Vue/TypeScript on the frontend, and Postgres for the database.
 	 * There was a short discussion about JavaScript ecosystem/security tradeoffs; no changes were requested based on this.
 
