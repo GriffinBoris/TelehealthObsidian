@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 421.5
+    "width": 411.5
   },
   "right": {
     "id": "cfde8ac0f9e27781",
@@ -169,7 +169,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -183,7 +184,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "0fb6ee37f17dcd51",
+  "active": "94e7cb98f666f496",
   "lastOpenFiles": [
     "Notes/PRD.md",
     "Notes/Stanton - Griffin Sync  - May 8th 2026.md",
