@@ -11,10 +11,14 @@
             "id": "0fb6ee37f17dcd51",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Stanton - Griffin Sync  - May 8th 2026.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Stanton - Griffin Sync  - May 8th 2026"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notes/Stanton - Griffin Sync  - May 8th 2026.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Stanton - Griffin Sync  - May 8th 2026"
             }
           },
           {
@@ -180,6 +185,8 @@
   },
   "active": "0fb6ee37f17dcd51",
   "lastOpenFiles": [
+    "Notes/PRD.md",
+    "Notes/Stanton - Griffin Sync  - May 8th 2026.md",
     "Wiki/wiki/log.md",
     "Wiki/wiki/index.md",
     "Wiki/vault-schema.md",
@@ -195,9 +202,7 @@
     "Wiki",
     "Wiki/wiki/sources/PRD 1.md",
     "Wiki/raw/PRD 1.md",
-    "Notes/PRD.md",
     "Wiki/raw/Stanton - Griffin Sync  - May 8th 2026 1.md",
-    "Notes/Stanton - Griffin Sync  - May 8th 2026.md",
     "Plans/Plans.md",
     "Notes/Notes.md",
     "opencode.json",

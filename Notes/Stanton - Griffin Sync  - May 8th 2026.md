@@ -1,5 +1,3 @@
-# Stanton - Griffin Sync - May 8th 2026
-
 **Date:** 2026-05-08
 **Attendees:** Stanton, Griffin
 
